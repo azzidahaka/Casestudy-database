@@ -154,13 +154,13 @@
 	},
 	{
 		"ID": "MGR",
-		"PRODUCTNAME": "Dell Screen",
-		"GRAPHICNAME": "Dell5",
+		"PRODUCTNAME": "MSIa",
+		"GRAPHICNAME": "Pink",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
 		"DESCRIPTION": "Per-Key RGB Keyboard; RBG rear mystic lighting; Killer Gaming Network E2500; Bluetooth 5.0; Nahimic 3 Sound; Coolerbost 5; Giant Speaker; USB 3.1; mDP v1.2; Windows 10 Home.",
 		"BRAND": "Dell"
-	},
+	}
 ]
