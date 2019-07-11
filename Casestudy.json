@@ -121,7 +121,7 @@
 	{
 		"Brand": "MSI",
 		"ID":"MGL",
-		"ProductName": "MSI GP63 8RE-202CA Leopard ",
+		"ProductName": "MSIP",
 		"GraphicName": "BlackWhite Sole",
 		"Cost": 8000,
 		"MSRP": 5000,
@@ -133,7 +133,7 @@
 	{
 		"Brand": "MSI",
 		"ID":"MGT",
-		"ProductName": "MSI GT83VR 7RF-200CA Titan",
+		"ProductName": "MSIG",
 		"GraphicName": "Black",
 		"Cost": 50,
 		"MSRP": 50,
