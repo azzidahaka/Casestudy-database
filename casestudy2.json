@@ -1,0 +1,167 @@
+[{
+	        "ID": "One",
+		"PRODUCTNAME": "Acer Gaming",
+		"GRAPHICNAME": "AcerOne",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "2",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer GAMING monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Acer"
+	},
+	{
+		"ID": "Two",
+		"PRODUCTNAME": "Acer User",
+		"GRAPHICNAME": "AcerTwo",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer USER monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Acer"
+	},
+	{
+		"ID": "Three",
+		"PRODUCTNAME": "Acer Movie",
+		"GRAPHICNAME": "Acer3",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer MOVIE monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Acer"
+	},
+	{
+		"ID": "Four",
+		"PRODUCTNAME": "Acer TV Watch",
+		"GRAPHICNAME": "Acer4",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Acer"
+	},
+	{
+		"ID": "Five",
+		"PRODUCTNAME": "Acer Screen",
+		"GRAPHICNAME": "Acer5",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Acer"
+	},
+	{
+		"ID": "Six",
+		"PRODUCTNAME": "LG Gaming",
+		"GRAPHICNAME": "LG1",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG GAMING monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "LG"
+	},
+	{
+		"ID": "Seven",
+		"PRODUCTNAME": "LG User",
+		"GRAPHICNAME": "LG2",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG USER monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "LG"
+	},
+	{
+		"ID": "Eight",
+		"PRODUCTNAME": "LG Movie",
+		"GRAPHICNAME": "LG3",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG MOVIE monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "LG"
+	},
+	{
+		"ID": "Nine",
+		"PRODUCTNAME": "LG TV Watch",
+		"GRAPHICNAME": "LG4",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "LG"
+	},
+	{
+		"ID": "Ten",
+		"PRODUCTNAME": "LG Screen",
+		"GRAPHICNAME": "LG5",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "LG"
+	},
+	{
+		"ID": "Eleven",
+		"PRODUCTNAME": "Dell Gaming",
+		"GRAPHICNAME": "Dell1",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "4",
+               "DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL GAMING monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Dell"
+	},
+	{
+		"ID": "Twelve",
+		"PRODUCTNAME": "Dell User",
+		"GRAPHICNAME": "Dell2",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL USER monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Dell"
+	},
+	{
+		"ID": "Thirteen",
+		"PRODUCTNAME": "Dell Movie",
+		"GRAPHICNAME": "Dell3",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL MOVIE monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Dell"
+	},
+	{
+		"ID": "Fourteen",
+		"PRODUCTNAME": "Dell TV Watch",
+		"GRAPHICNAME": "Dell4",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Dell"
+	},
+	{
+		"ID": "Fifteen",
+		"PRODUCTNAME": "Dell Screen",
+		"GRAPHICNAME": "Dell5",
+		"COST": "129.99",
+		"MSRP": "75.34",
+		"QTYONHAND": "1",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"BRAND": "Dell"
+	}
+
+]
