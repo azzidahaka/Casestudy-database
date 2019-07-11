@@ -131,37 +131,40 @@
 		"Description": "Special features: VR ready | mechanical cherry mx brown switch, RGB steel series keyboard 88 keys | thunderbolt 3 | dual killer gaming network e2500 | killer n1535 combo | metal build.",
 		"Brand": "MSI"
 	},
+	
 	{
-		"ID":"MGLL",
-		"ProductName": "MSIc",
-		"GraphicName": "White",
-		"Cost": 7500,
-		"MSRP": 8000,
-		"QtyOnHand": 5,
-		"QtyOnBackOrder": 12,
-		"Description": "Slim and light with grey metallic design.",
+		"ID": "Thirteen",
+		"ProductName": "Dell Movie",
+		"GraphicName": "Dell3",
+		"Cost": "129.99",
+		"MSRP": "75.34",
+		"QtyOnHand": "1",
+		"QtyOnBackOrder": "3",
+		"Description": "Sharp images, true-to-life colours, and Full HD resolution make the DELL MOVIE monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
 		"Brand": "MSI"
 	},
 	{
-		"ID":"MP",
-		"ProductName": "MSIb",
-		"GraphicName": "Grey",
-		"Cost": 5500,
-		"MSRP": 6000,
-		"QtyOnHand": 15,
-		"QtyOnBackOrder": 32,
-		"Description": "SteelSeries Per-key RGB keyboard is best-suited for popular titles like Battlefield or Fortnite Report incorrect product information.",
+		"ID": "Fourteen",
+		"ProductName": "Dell TV Watch",
+		"GraphicName": "Dell4",
+		"Cost": "129.99",
+		"MSRP": "75.34",
+		"QtyOnHand": "1",
+		"QtyOnBackOrder": "3",
+		"Description": "Sharp images, true-to-life colours, and Full HD resolution make the DELL TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
 		"Brand": "MSI"
 	},
 	{
-		"ID":"MGR",
-		"ProductName": "MSIa",
-		"GraphicName": "Pink, Black",
-		"Cost": 3000,
-		"MSRP": 3500,
-		"QtyOnHand": 17,
-		"QtyOnBackOrder": 28,
-		"Description": "Per-Key RGB Keyboard; RBG rear mystic lighting; Killer Gaming Network E2500; Bluetooth 5.0; Nahimic 3 Sound; Coolerbost 5; Giant Speaker; USB 3.1; mDP v1.2; Windows 10 Home.",
+		"ID": "Fifteen",
+		"PRODUCTNAME": "Dell Screen",
+		"GRAPHICNAME": "Dell5",
+		"Cost": "129.99",
+		"MSRP": "75.34",
+		"QtyOnHand": "1",
+		"QtyOnBackOrder": "3",
+		"Description": "Sharp images, true-to-life colours, and Full HD resolution make the DELL SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
 		"Brand": "MSI"
 	}
+
+	
 ]
