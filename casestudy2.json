@@ -1,167 +1,167 @@
 [{
-	        "ID": "One",
-		"PRODUCTNAME": "Acer Gaming",
-		"GRAPHICNAME": "AcerOne",
+	        "ID": "ACF",
+		"PRODUCTNAME": "Asus Chrome Flip",
+		"GRAPHICNAME": "Black",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "2",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer GAMING monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Acer"
+		"DESCRIPTION": "Work anywhere online or offline regardless of the internet connection. Enjoy hours of games, entertainment, and keeping up with school, wherever it goes. ",
+		"BRAND": "Asus"
 	},
 	{
-		"ID": "Two",
-		"PRODUCTNAME": "Acer User",
-		"GRAPHICNAME": "AcerTwo",
+		"ID": "AMD A9-9425",
+		"PRODUCTNAME": "Asus X540BA-RB94",
+		"GRAPHICNAME": "White",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer USER monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Acer"
+		"DESCRIPTION":"AMD A9-9425 processor with Radeon R5 integrated graphics (up to 3.7GHz),15.6” HD (1366 x 768) display,1TB Hard Disk Drive,8GB DDR4 RAM Storage,802.11ac Wi-Fi, Ergonomic chiclet keyboard; Windows 10.",
+		"BRAND": "Asus"
 	},
 	{
-		"ID": "Three",
-		"PRODUCTNAME": "Acer Movie",
-		"GRAPHICNAME": "Acer3",
+		"ID": "AM270",
+		"PRODUCTNAME": "ASUS VivoBook Thin",
+		"GRAPHICNAME": "Gold",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer MOVIE monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Acer"
+		"DESCRIPTION":  "Comprehensive connections including USB 3.1 Type-C (Gen1), USB 3.0, USB 2.0, and HDMI; Lightning-fast 802.11ac Wi-Fi keeps you connected through any congestion or interference.",
+		"BRAND": "Asus"
 	},
 	{
-		"ID": "Four",
-		"PRODUCTNAME": "Acer TV Watch",
-		"GRAPHICNAME": "Acer4",
+		"ID": "X540UA",
+		"PRODUCTNAME": "Asus X540UA-AB31-CA",
+		"GRAPHICNAME": "Black",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Acer"
+		"DESCRIPTION": "Lightning-fast 802.11ac dual antenna Wi-Fi keeps you connected through any congestion or interference.",
+		"BRAND": "Asus"
 	},
 	{
-		"ID": "Five",
-		"PRODUCTNAME": "Acer Screen",
-		"GRAPHICNAME": "Acer5",
+		"ID": "VUT",
+		"PRODUCTNAME": "Asus 15.6 VivoBook S Ultra Thin Laptop",
+		"GRAPHICNAME": "White",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the Acer SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Acer"
+		"DESCRIPTION": "Comprehensive connections including USB 3.1 Type-C (gen 1), USB 3.0, USB 2.0, And HDMI; dual band 802.11ac Wi-Fi.Built-in Bluetooth V4.2.",
+		"BRAND": "Asus"
 	},
 	{
-		"ID": "Six",
-		"PRODUCTNAME": "LG Gaming",
-		"GRAPHICNAME": "LG1",
+		"ID": "AMM",
+		"PRODUCTNAME": "Apple MacBook Air MJVM2LL",
+		"GRAPHICNAME": "White and Red",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG GAMING monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "LG"
+		"DESCRIPTION": "128GB SSD; Intel HD Graphics 6000 graphics processor; Two 3.0 USB ports; Standard 802.11a/b/g/n airport and Bluetooth 4.0 keep you connected; 38 W h Li-Poly Battery with 8 hours of battery life; Thunderbolt port. ",
+		"BRAND": "Apple"
 	},
 	{
-		"ID": "Seven",
-		"PRODUCTNAME": "LG User",
-		"GRAPHICNAME": "LG2",
+		"ID": "AMA",
+		"PRODUCTNAME": "Apple MacBook Air",
+		"GRAPHICNAME": "White",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG USER monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "LG"
+		"DESCRIPTION":  "Renewed products look and work like new. These pre-owned products have been inspected and tested by Amazon-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Packaging and accessories may be generic. All products on Amazon Renewed come with a minimum 90 day supplier-backed warranty.",
+		"BRAND": "Apple"
 	},
 	{
-		"ID": "Eight",
-		"PRODUCTNAME": "LG Movie",
-		"GRAPHICNAME": "LG3",
+		"ID": "AMP",
+		"PRODUCTNAME": "Apple MacBook Pro",
+		"GRAPHICNAME": "Black and White",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG MOVIE monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "LG"
+		"DESCRIPTION": "Intel Core i5 Processor 2.4GHz^4GB SDRAM RAM^500GB 5400RPM Hard Drive^13.3-Inch Screen, Intel HD Graphics 3000^Mac OS X v10.7 Lion, 7 hours Battery Life."
+		"BRAND": "Apple"
 	},
 	{
-		"ID": "Nine",
-		"PRODUCTNAME": "LG TV Watch",
-		"GRAPHICNAME": "LG4",
+		"ID": "AMQ",
+		"PRODUCTNAME": "Apple MacBook Air",
+		"GRAPHICNAME": "Black and White",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "LG"
+		"DESCRIPTION": "Renewed products look and work like new. These pre-owned products have been inspected and tested by Amazon-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Packaging and accessories may be generic. All products on Amazon Renewed come with a minimum 90 day supplier-backed warranty.",
+		"BRAND": "Apple"
 	},
 	{
-		"ID": "Ten",
-		"PRODUCTNAME": "LG Screen",
-		"GRAPHICNAME": "LG5",
+		"ID": "MP",
+		"PRODUCTNAME": "MacBook Pro",
+		"GRAPHICNAME": "Black and White",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the LG SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "LG"
+		"DESCRIPTION":  "MacBook Pro 13.3 Laptop."
+		"BRAND": "Apple"
 	},
 	{
-		"ID": "Eleven",
-		"PRODUCTNAME": "Dell Gaming",
-		"GRAPHICNAME": "Dell1",
+		"ID": "MGL",
+		"PRODUCTNAME": "MSI GP63 8RE-202CA Leopard ",
+		"GRAPHICNAME": "BlackWhite",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "4",
-               "DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL GAMING monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Dell"
+               "DESCRIPTION": "Steel Series RBG Gaming Keyboard; Cooler Booster 5 (2 fans+7 pipes); MSI Giant Speaker; Nahimic Sound 3; USB 3.1; HDMI; MDP v1.2; Bluetooth 5.0; Killer Gaming Network E2400; Windows 10.",
+		"BRAND": "MSI"
 	},
 	{
-		"ID": "Twelve",
-		"PRODUCTNAME": "Dell User",
-		"GRAPHICNAME": "Dell2",
+		"ID": "MGT",
+		"PRODUCTNAME": "MSI GT83VR 7RF-200CA Titan",
+		"GRAPHICNAME": "Black",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL USER monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Dell"
+		"DESCRIPTION": "Special features: VR ready | mechanical cherry mx brown switch, RGB steel series keyboard 88 keys | thunderbolt 3 | dual killer gaming network e2500 | killer n1535 combo | metal build.",
+		"BRAND": "MSI"
 	},
 	{
-		"ID": "Thirteen",
-		"PRODUCTNAME": "Dell Movie",
-		"GRAPHICNAME": "Dell3",
+		"ID": "MGLL",
+		"PRODUCTNAME": "MSIc",
+		"GRAPHICNAME": "White",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL MOVIE monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Dell"
+		"DESCRIPTION":"SteelSeries Per-key RGB keyboard is best-suited for popular titles like Battlefield or Fortnite Report incorrect product information.",
+		"BRAND": "MSI"
 	},
 	{
-		"ID": "Fourteen",
-		"PRODUCTNAME": "Dell TV Watch",
-		"GRAPHICNAME": "Dell4",
+		"ID": "MP",
+		"PRODUCTNAME": "MSIb",
+		"GRAPHICNAME": "Grey",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Dell"
+		"DESCRIPTION": "Slim and light with grey metallic design."
+		"BRAND": "MSI"
 	},
 	{
-		"ID": "Fifteen",
-		"PRODUCTNAME": "Dell Screen",
-		"GRAPHICNAME": "Dell5",
+		"ID": "MGR",
+		"PRODUCTNAME": "MSIa",
+		"GRAPHICNAME": "Pink, Black",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
-		"BRAND": "Dell"
+		"DESCRIPTION": "Per-Key RGB Keyboard; RBG rear mystic lighting; Killer Gaming Network E2500; Bluetooth 5.0; Nahimic 3 Sound; Coolerbost 5; Giant Speaker; USB 3.1; mDP v1.2; Windows 10 Home.",
+		"BRAND": "MSI"
 	}
 
 ]
