@@ -142,25 +142,25 @@
 		"BRAND": "Dell"
 	},
 		{
-		"ID": "Fourteen",
-		"PRODUCTNAME": "Dell TV Watch",
-		"GRAPHICNAME": "Dell4",
+		"ID": "MPd",
+		"PRODUCTNAME": "MSIb",
+		"GRAPHICNAME": "Grey",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL TV WATCH monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"DESCRIPTION": "Slim and light with grey metallic design.",
 		"BRAND": "Dell"
 	},
 	{
-		"ID": "Fifteen",
+		"ID": "MGR",
 		"PRODUCTNAME": "Dell Screen",
 		"GRAPHICNAME": "Dell5",
 		"COST": "129.99",
 		"MSRP": "75.34",
 		"QTYONHAND": "1",
 		"QTYONBACKORDER": "3",
-		"DESCRIPTION": "Sharp images, true-to-life colours, and Full HD resolution make the DELL SCREEN monitor a versatile design for HD productivity, gaming, and multimedia applications. It features ComfyView technology for vivid hues and reduced glare that enhance your viewing comfort. Experience ultra-smooth action with a 5ms response time and 60Hz refresh rate.",
+		"DESCRIPTION": "Per-Key RGB Keyboard; RBG rear mystic lighting; Killer Gaming Network E2500; Bluetooth 5.0; Nahimic 3 Sound; Coolerbost 5; Giant Speaker; USB 3.1; mDP v1.2; Windows 10 Home.",
 		"BRAND": "Dell"
 	}
 ]
